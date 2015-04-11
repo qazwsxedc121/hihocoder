@@ -5,7 +5,7 @@ import java.util.Scanner;
  */
 public class p1128 {
     static boolean flag = false;
-    public static void main(String[] args) {
+    public static void m(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         int target = in.nextInt();
