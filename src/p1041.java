@@ -3,7 +3,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 
 public class p1041 {
-    static class TreeNode{
+    private static class TreeNode{
         public int city;
         public TreeNode parent;
         public HashSet<TreeNode> sub;
