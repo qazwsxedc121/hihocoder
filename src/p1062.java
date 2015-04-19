@@ -4,7 +4,7 @@ import java.util.*;
  * Created by Administrator on 2015/4/18.
  */
 public class p1062 {
-    public static void main(String[] args) {
+    public static void m(String[] args) {
         Scanner in = new Scanner(System.in);
         HashMap<String, String> parents = new HashMap<String, String>();
         int n = in.nextInt();
